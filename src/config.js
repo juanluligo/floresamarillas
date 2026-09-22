@@ -10,13 +10,13 @@ export const recipientName = 'Para ti Preciosaaaaa!';
 
 // ── Inicial protagonista (botón flor + letra) ────────────────
 // Aparece en el botón dorado junto a "Volver a florecer" y en su dedicatoria.
-export const initial = 'J';
+export const initial = 'L';
 
 export const dedication = {
   overline: 'Una flor con tu inicial',
   // El título se compone como `Para ${initial}` automáticamente.
   text: 'Hay letras que florecen solas. La tuya pinta de amarillo hasta los lunes grises. Gracias por existir y por hacer que este jardín —y mi mundo— tenga más color.',
-  sign: 'Para la mejor J del universo 🌻',
+  sign: 'Para la mejor L del universo 🌻',
 };
 
 export const spidey = {
@@ -76,27 +76,24 @@ export const promise = {
   // Poema estilo Harry Potter: se renderiza verso por verso.
   // Usa '' como separador entre estrofas.
   verses: [
-    'Juro solemnemente, varita en mano,',
-    'que eres mi mejor hechizo, y no en vano:',
-    'ni giratiempo ni capa invisible',
-    'me alejan de ti: eso es imposible.',
-    '',
-    'Dicen que Hufflepuff viste de amarillo',
-    'por leal, por noble, por su tierno brillo;',
-    'yo, sin ser mago de gran renombre,',
-    'conjuro tu risa y repito tu nombre.',
-    '',
-    'Agito la varita: ¡flores a raudales!',
-    'amarillas y altas como ventanales;',
-    'que pinten tu día de fiesta y de miel,',
-    'como carta que llega por lechuza fiel.',
-    '',
-    'Y si un dementor te roba la alegría,',
-    'mi patronus te guarda de noche y de día.',
-    'Travesura realizada, cierro este mapa…',
-    'pero mi amor por ti nunca se escapa.',
+    'Laura, mi gordita bella,',
+  '',
+  'Sé que no todo ha sido fácil, que hemos tenido tropiezos y días grises,',
+  'pero quiero que sepas algo que nunca cambia: te sigo amando, hoy más que ayer.',
+  'A pesar de los problemas, a pesar de todo, mi corazón sigue eligiéndote a ti.',
+  '',
+  'Eres el amor de mi vida, mi persona favorita,',
+  'la que me hace sonreír hasta en los días difíciles.',
+  'Estoy orgulloso de ti, de tu fuerza y de tu inteligencia, de cómo enfrentas todo con esas ganas que solo tú tienes como especie Pepi.',
+  '',
+  'No somos perfectos, pero lo que siento por ti sí lo es.',
+  'Aquí sigo, aquí estoy, aquí me quedo.',
+  'Te amo, gordita bella, hoy, mañana y siempre.',
+  '',
+  'Para Siempre,',
+  'Juan Camilo Luligo',
   ],
-  sign: 'Travesura realizada ⚡🌻',
+  sign: 'Travesura realizada 🌻',
   close: 'Cerrar',
 };
 
@@ -168,7 +165,7 @@ export const copy = {
 // ── Música ───────────────────────────────────────────────────
 // Coloca tu archivo en: /public/audio/music.mp3
 // Si no existe, el botón lo indicará con elegancia (sin errores).
-export const musicSrc = '/audio/music.mp3';
+export const musicSrc = '/audio/krisr.mp3';
 
 // ── Tiempos (segundos) — ajusta el ritmo cinematográfico ─────
 export const timing = {
